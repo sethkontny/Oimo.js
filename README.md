@@ -1,5 +1,6 @@
 <img src="http://lo-th.github.io/Oimo.js/images/logo.jpg"/>  Oimo.js 
 =========
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/sethkontny/Oimo.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Oimo.js is a lightweight 3d physics engine for javascript.<br>
 It's a full javascript conversion of [OimoPhysics](https://github.com/saharan/OimoPhysics)<br>
